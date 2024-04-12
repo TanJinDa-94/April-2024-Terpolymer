@@ -1,0 +1,39 @@
+
+Current Data Parameters
+NAME               TP54              
+EXPNO                40              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20230109              
+Time              17.57 h            
+INSTRUM           spect              
+PROBHD   Z107907_0002 (              
+PULPROG            zg30              
+TD                65536              
+SOLVENT           CDCl3              
+NS                   16              
+DS                    2              
+SWH            6793.478 Hz           
+FIDRES         0.207320 Hz           
+AQ            4.8234496 sec          
+RG                15.41              
+DW               73.600 usec         
+DE                10.00 usec         
+TE                298.0 K            
+D1           1.00000000 sec          
+TD0                   1              
+SFO1        400.1728012 MHz          
+NUC1                 1H              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1         8.59010029 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          400.1700000 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 0.30 Hz           
+GB                    0              
+PC                 1.00              

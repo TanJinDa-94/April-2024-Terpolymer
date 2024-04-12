@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="NMR User1" date="2022-11-17T17:37:08.182+08:00" expNo="20" name="TP37" owner="" procNo="1" source="C:/Bruker/TopSpin3.2/data/May 2014/2-Balamurugan">
+      <PeakPickDetails>F1=15.068450ppm, F2=-1.908024ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="14.980506" intensity="3.081971e+000" type="0"/>
+    <Peak1D F1="14.962139" intensity="6.267618e+000" type="0"/>
+    <Peak1D F1="14.946726" intensity="5.419132e+000" type="0"/>
+    <Peak1D F1="5.061956" intensity="3.986027e+000" type="0"/>
+    <Peak1D F1="4.323657" intensity="3.208097e+000" type="0"/>
+    <Peak1D F1="3.361970" intensity="8.029003e+000" type="0"/>
+    <Peak1D F1="2.728481" intensity="6.769716e+000" type="0"/>
+    <Peak1D F1="1.224336" intensity="7.684292e+000" type="0"/>
+    <Peak1D F1="1.207825" intensity="1.209076e+001" type="0"/>
+    <Peak1D F1="1.191288" intensity="5.324626e+000" type="0"/>
+    <Peak1D F1="1.156380" intensity="6.483402e+000" type="0"/>
+    <Peak1D F1="1.139729" intensity="1.081961e+001" type="0"/>
+    <Peak1D F1="1.123034" intensity="4.335915e+000" type="0"/>
+    <Peak1D F1="0.377663" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="-0.000131" intensity="3.007877e+001" type="0"/>
+    <Peak1D F1="-0.073034" intensity="2.687878e+001" type="0"/>
+    <Peak1D F1="-1.230749" intensity="1.321993e+001" type="0"/>
+    <Peak1D F1="-1.286858" intensity="6.551789e+000" type="0"/>
+    <Peak1D F1="-1.303403" intensity="6.150466e+000" type="0"/>
+    <Peak1D F1="-1.324955" intensity="4.214225e+000" type="0"/>
+    <Peak1D F1="-1.341822" intensity="4.200468e+000" type="0"/>
+    <Peak1D F1="-1.525338" intensity="3.543988e+000" type="0"/>
+    <Peak1D F1="-1.543933" intensity="4.351306e+000" type="0"/>
+    <Peak1D F1="-1.557750" intensity="4.722359e+000" type="0"/>
+    <Peak1D F1="-1.576099" intensity="3.337291e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

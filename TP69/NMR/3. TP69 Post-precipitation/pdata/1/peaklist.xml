@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="NMR User1" date="2023-02-24T13:38:39.366+08:00" expNo="30" name="TP69" owner="" procNo="1" source="C:/Bruker/TopSpin3.2/data/May 2014/2-Balamurugan">
+      <PeakPickDetails>F1=15.488240ppm, F2=-1.488240ppm, MI=1.00cm, MAXI=101.00cm, PC=10.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.147503" intensity="2.346907e+000" type="0"/>
+    <Peak1D F1="5.360866" intensity="1.386061e+001" type="0"/>
+    <Peak1D F1="5.358169" intensity="1.498439e+001" type="0"/>
+    <Peak1D F1="5.355471" intensity="1.347795e+001" type="0"/>
+    <Peak1D F1="3.721710" intensity="1.084898e+000" type="0"/>
+    <Peak1D F1="1.875714" intensity="1.303046e+000" type="0"/>
+    <Peak1D F1="1.867964" intensity="1.306228e+000" type="0"/>
+    <Peak1D F1="1.859142" intensity="2.087716e+000" type="0"/>
+    <Peak1D F1="1.850287" intensity="1.301178e+000" type="0"/>
+    <Peak1D F1="1.842596" intensity="1.294926e+000" type="0"/>
+    <Peak1D F1="1.745810" intensity="2.031350e+000" type="0"/>
+    <Peak1D F1="1.727877" intensity="1.204329e+000" type="0"/>
+    <Peak1D F1="1.666809" intensity="1.996496e+000" type="0"/>
+    <Peak1D F1="1.650469" intensity="1.960088e+000" type="0"/>
+    <Peak1D F1="1.627610" intensity="1.638288e+000" type="0"/>
+    <Peak1D F1="1.601401" intensity="2.022141e+000" type="0"/>
+    <Peak1D F1="1.577037" intensity="9.999999e+001" type="0"/>
+    <Peak1D F1="1.553908" intensity="1.785020e+000" type="0"/>
+    <Peak1D F1="1.550628" intensity="1.949708e+000" type="0"/>
+    <Peak1D F1="1.528068" intensity="1.714205e+000" type="0"/>
+    <Peak1D F1="1.445814" intensity="1.105263e+000" type="0"/>
+    <Peak1D F1="0.945134" intensity="1.091858e+000" type="0"/>
+    <Peak1D F1="0.921921" intensity="1.140085e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

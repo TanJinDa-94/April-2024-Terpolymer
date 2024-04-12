@@ -1,0 +1,47 @@
+
+Current Data Parameters
+NAME                TP7              
+EXPNO                31              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20220902              
+Time               8.07 h            
+INSTRUM           spect              
+PROBHD   Z107907_0002 (              
+PULPROG          zgpg30              
+TD                65536              
+SOLVENT           CDCl3              
+NS                  128              
+DS                    4              
+SWH           23148.148 Hz           
+FIDRES         0.706425 Hz           
+AQ            1.4155777 sec          
+RG                183.6              
+DW               21.600 usec         
+DE                18.00 usec         
+TE                298.0 K            
+D1           1.00000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+SFO1        100.6333919 MHz          
+NUC1                13C              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1        15.06599998 W            
+SFO2        400.1716007 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz65              
+PCPD2             90.00 usec         
+PLW2         8.59010029 W            
+PLW12        0.10605000 W            
+PLW13        0.05334300 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          100.6228255 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 1.00 Hz           
+GB                    0              
+PC                 1.40              

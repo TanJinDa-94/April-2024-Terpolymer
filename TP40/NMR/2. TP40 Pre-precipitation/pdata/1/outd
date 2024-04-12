@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR User1
+$$ 2022-11-18 14:45:22.300 +0800  NMR User1@OC-NMR1-PC
+$$ C:/Bruker/TopSpin3.6.2/prog/curdir/changer/inmrchanger/Nov18-2022-0838-nmrsu/45/45.80/data/nmr/TP40/20/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.6.2\prog\mod\xwish3.exe
+##$CURPLOT= <HP LaserJet P2035>
+##$CURPRIN= <$HP LaserJet P2035>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

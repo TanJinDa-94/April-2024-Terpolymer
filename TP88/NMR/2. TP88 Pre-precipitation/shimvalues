@@ -1,0 +1,64 @@
+# Tue Apr 04 15:41:52 2023
+#$$PROBEIDENTIFIER=Z107907_0002
+#$$PROBENAME=CP DCH 400S1 C/H-D-05 Z
+#$$SHIMID=313232
+#
+# Active Shim Gradients
+#
+Z           		-2550           
+Z2          		-18985          
+Z3          		7165            
+Z4          		-11720          
+Z5          		-5165           
+Z6          		15031           
+X           		590             
+XZ          		459             
+XZ2         		-12856          
+XZ3         		-603            
+Y           		-4352           
+YZ          		6021            
+YZ2         		844             
+YZ3         		-6599           
+XY          		12696           
+XYZ         		6098            
+(X2-Y2)     		-5537           
+(X2-Y2)Z    		-179            
+X3          		-3819           
+Y3          		2696            
+#
+# Lock Parameter
+#
+FIELD		3082.813
+LOCKPHASE		14.693  
+LOCKPOWER		-30.000 
+LOCKGAIN		133.048 
+LOCKDC		0.000   
+LOCKSHIFT		7.240   
+LOOPGAIN		-12.000 
+LOOPTIME		0.400   
+LOOPFILTER		100.000 
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [1 ]  -1236.86046069  
+SHIM_SETTING [2 ]  -9397.62734294  
+SHIM_SETTING [3 ]  3768.52935184   
+SHIM_SETTING [4 ]  -6164.68901394  
+SHIM_SETTING [5 ]  -2716.76604247  
+SHIM_SETTING [6 ]  310.07800000    
+SHIM_SETTING [7 ]  241.32600000    
+SHIM_SETTING [8 ]  -6762.36900000  
+SHIM_SETTING [9 ]  -2912.43000000  
+SHIM_SETTING [10]  6677.88600000   
+SHIM_SETTING [11]  -2289.40700000  
+SHIM_SETTING [12]  3167.25600000   
+SHIM_SETTING [13]  443.94600000    
+SHIM_SETTING [14]  -3470.86100000  
+SHIM_SETTING [15]  7906.42200000   
+SHIM_SETTING [16]  -94.13700000    
+SHIM_SETTING [17]  -316.98500000   
+SHIM_SETTING [18]  3207.36100000   
+SHIM_SETTING [19]  -2008.82700000  
+SHIM_SETTING [20]  1418.34400000   

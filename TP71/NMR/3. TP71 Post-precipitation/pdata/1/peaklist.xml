@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="NMR User1" date="2023-02-24T14:08:52.216+08:00" expNo="30" name="TP71" owner="" procNo="1" source="C:/Bruker/TopSpin3.2/data/May 2014/2-Balamurugan">
+      <PeakPickDetails>F1=15.488240ppm, F2=-1.488240ppm, MI=1.00cm, MAXI=101.00cm, PC=10.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="5.370308" intensity="2.247393e+000" type="0"/>
+    <Peak1D F1="5.360675" intensity="2.358512e+001" type="0"/>
+    <Peak1D F1="5.358025" intensity="2.501110e+001" type="0"/>
+    <Peak1D F1="5.355361" intensity="2.123952e+001" type="0"/>
+    <Peak1D F1="5.080020" intensity="2.943532e+000" type="0"/>
+    <Peak1D F1="4.051573" intensity="1.240065e+001" type="0"/>
+    <Peak1D F1="3.736545" intensity="1.380707e+000" type="0"/>
+    <Peak1D F1="3.719960" intensity="3.057974e+000" type="0"/>
+    <Peak1D F1="3.713929" intensity="1.347341e+000" type="0"/>
+    <Peak1D F1="3.703372" intensity="1.345080e+000" type="0"/>
+    <Peak1D F1="3.459739" intensity="1.397729e+000" type="0"/>
+    <Peak1D F1="2.658643" intensity="2.392709e+000" type="0"/>
+    <Peak1D F1="2.598231" intensity="2.865265e+000" type="0"/>
+    <Peak1D F1="2.485348" intensity="2.522791e+000" type="0"/>
+    <Peak1D F1="2.428831" intensity="2.676740e+000" type="0"/>
+    <Peak1D F1="2.013125" intensity="6.043985e+000" type="0"/>
+    <Peak1D F1="1.874174" intensity="3.962015e+000" type="0"/>
+    <Peak1D F1="1.866394" intensity="4.067455e+000" type="0"/>
+    <Peak1D F1="1.857629" intensity="6.185107e+000" type="0"/>
+    <Peak1D F1="1.848996" intensity="4.010220e+000" type="0"/>
+    <Peak1D F1="1.841107" intensity="3.884958e+000" type="0"/>
+    <Peak1D F1="1.703345" intensity="2.286661e+001" type="0"/>
+    <Peak1D F1="1.629735" intensity="3.238461e+001" type="0"/>
+    <Peak1D F1="1.590770" intensity="1.000000e+002" type="0"/>
+    <Peak1D F1="1.403449" intensity="1.585492e+001" type="0"/>
+    <Peak1D F1="0.967594" intensity="3.427343e+001" type="0"/>
+  </PeakList1D>
+</PeakList>
